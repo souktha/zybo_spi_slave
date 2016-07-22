@@ -1,0 +1,1 @@
+cmd_/home/ssop/usb3/xilinx/spi/spi5a.ko := arm-linux-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/ssop/usb3/xilinx/spi/spi5a.ko /home/ssop/usb3/xilinx/spi/spi5a.o /home/ssop/usb3/xilinx/spi/spi5a.mod.o
